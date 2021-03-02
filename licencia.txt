@@ -1,0 +1,21 @@
+Sobre la Licencia  de ScrabbleAR (Open Source)
+
+
+Para el proyecto hemos analizado los tipos de licencia que ofrecen la Free Sofware Foundation (FSF) y la Open Source Initiative (OSI). Hemos erradicado la idea de licencias con copyright ya que estamos en un contexto académico, por lo tanto consideramos que en dicho contexto toda investigación y desarrollo de proyectos debería ser de libre acceso y distribución, para fomentar y aportar dicho conocimiento a la comunidad por más infimo que este sea.
+
+Si bien la licencia propuesta por la FSF es una definición filosofica, etica y moral atractiva y tentadora sobre las libertades del software para el usuario y la comunidad, hemos tenido que inclinarnos a la propuesta por la OSI. 
+
+El motivo de este es uno solo: 
+
+Las pautas del trabajo final, propuestas por la cátedra de Seminario de Lenguaje en Python, plantean como requisito obligatorio que ScrableAR funcione tanto en Linux como en Winows (entendiendo que apunta a que nuestro proyecto sea ejecutado sin ningun problema no importando la plataforma), pero tratándose de Winows (un sistema operativo comercial y privativo) estaríamos contradiciendo las bases de la FSF.
+
+Es por este motivo que ScrabbleAR es OPEN SOURCE  
+
+
+Sobre las imagenes utilizadas en el proyecto:
+
+En cambio, al momento de hablar de las imagenes utilizadas para el proyecto (exceptuando los avatares) éstas han sido creadas por Diego Vilardebó especificamente para ScrabbleAR. Con el objetivo de seguir en la logica del Open Source el autor a decidido protegerlas meiante la licencia:
+
+Creatives Commons  en calidad : Reconocimiento – NoComercial – CompartirIgual (by-nc-sa)
+
+Reconocimiento – NoComercial – CompartirIgual (by-nc-sa): No se permite el uso comercial de la obra original ni obras derivadas. Estas obras derivadas deben distribuirse con una licencia igual que la que tiene la original.
